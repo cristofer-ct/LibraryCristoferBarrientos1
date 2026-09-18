@@ -9,7 +9,7 @@ la capa de **modelo** (POJOs) del sistema de gestion de libreria.
     ├── nbproject/                 # Configuracion de NetBeans (Ant)
     ├── build.xml                  # Script Ant
     ├── manifest.mf
-    └── src/org/ac/
+    └── src/org/CristoferBarrientos/
         ├── model/                 # Entidades de esta semana
         │   ├── Usuario.java       # id, username, email, firstName, lastName,
         │   │                      # passwordHash, rol, activo, fechaCreacion
